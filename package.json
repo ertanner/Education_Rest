@@ -4,6 +4,7 @@
   "description": "REST server",
   "main": "app.js",
   "dependencies": {
+    "bcrypt": "^2.0.1",
     "cors": "^2.8.4",
     "moment": "^2.20.1",
     "vue-marquee-tips": "^1.0.7"
